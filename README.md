@@ -20,25 +20,11 @@ A collection of projects and coursework completed during MIT's 12-week Applied D
 
 Built and compared ANN and CNN architectures to recognize digits in Google's Street View House Numbers dataset. Explored how convolutional layers improve performance over fully connected networks on image data.
 
-**Tech:** Python, TensorFlow/Keras, NumPy, Matplotlib
 
 ### Facial Emotion Recognition *(Capstone)*
 
 Developed a CNN from scratch for classifying facial emotions, then benchmarked it against pretrained transfer learning architectures. Analyzed trade-offs between model complexity, training efficiency, and classification accuracy.
 
-**Tech:** Python, TensorFlow/Keras, Transfer Learning (VGG, ResNet, etc.), NumPy, Matplotlib
-
-## Repository Structure
-
-```
-├── svhn-digit-recognition/
-│   ├── notebook.ipynb
-│   └── ...
-├── facial-emotion-recognition/
-│   ├── notebook.ipynb
-│   └── ...
-└── README.md
-```
 
 ## Tools & Libraries
 
